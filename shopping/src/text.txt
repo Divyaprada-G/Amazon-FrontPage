@@ -1,0 +1,52 @@
+
+//deals of the day url
+https://t3.ftcdn.net/jpg/03/14/63/92/360_F_314639225_ZEcgSjXNlPVEXZKaJRMyYMBwPGNEPs0p.jpg
+
+
+//all deals background
+https://files.scmagazine.com/wp-content/uploads/2023/08/amazon-webservices-ft-1.jpg
+
+
+//deals electronics
+
+<a href="#"><p>Electronics</p></a><img src='https://img.paisawapas.com/ovz3vew9pw/2021/10/06223906/amazon-trending.jpg' alt='image1' height='100px'></img>
+
+
+//amazon greate indian festival image
+ background: url("https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/revisedT2/Header_PC_Teaser-2_English.jpg");
+
+ //fashion image
+         <a href="#"><p>Fashion</p></a><img src='https://e0.pxfuel.com/wallpapers/304/361/desktop-wallpaper-womens-fashion-girls-fashion-dress-red-fashion-beauty-dress.jpg' alt='image1' height='100px'></img>
+
+
+//Head div code
+background:url("https://wallpapercosmos.com/w/full/2/6/5/1251328-2000x1200-desktop-hd-amazon-background-image.jpg");
+
+
+ background:url("https://img.freepik.com/premium-photo/abstract-background-images-wallpaper-ai-generated_643360-50467.jpg");\\
+   background-repeat:no-repeat;
+
+
+//Shop div code
+ background: url("https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/revisedT2/Header_PC_Teaser-2_English.jpg");
+
+///
+#show{
+  border: px solid rgb(241, 202, 7);
+  width: 460px;
+  background:url("https://static.langimg.com/photo/imgsize-151974,msid-104293723/navbharat-times.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  
+
+}
+
+///
+#ing{
+   border: px solid rgb(241, 202, 7);
+   width: 450px;
+   background:url("https://assets.aboutamazon.com/dims4/default/020497a/2147483647/strip/true/crop/1280x687+0+16/resize/1440x773!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F24%2Fb8%2Ff8733dc64728923aaa2df8a9f41c%2Flive-now-banner.jpg");
+   background-repeat:no-repeat;
+   background-size: cover;
+
+}
